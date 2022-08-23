@@ -1,0 +1,13 @@
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\bin\Debug\netcoreapp3.1\KursachCSh.exe
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\bin\Debug\netcoreapp3.1\KursachCSh.deps.json
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\bin\Debug\netcoreapp3.1\KursachCSh.runtimeconfig.json
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\bin\Debug\netcoreapp3.1\KursachCSh.runtimeconfig.dev.json
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\bin\Debug\netcoreapp3.1\KursachCSh.dll
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\bin\Debug\netcoreapp3.1\KursachCSh.pdb
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.AssemblyInfoInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.AssemblyInfo.cs
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.dll
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.pdb
+D:\__Doc\Liza\Desktop\Инфа\KursachCSh\obj\Debug\netcoreapp3.1\KursachCSh.genruntimeconfig.cache

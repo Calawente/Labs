@@ -1,0 +1,5 @@
+﻿  kursach.cpp
+D:\__Doc\Liza\Desktop\Инфа\kursach\kursach.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\__Doc\Liza\Desktop\Инфа\kursach\kursach.cpp(25,9): warning C4101: i: неиспользованная локальная переменная
+D:\__Doc\Liza\Desktop\Инфа\kursach\kursach.cpp(123,12): warning C4101: c: неиспользованная локальная переменная
+  kursach.vcxproj -> D:\__Doc\Liza\Desktop\Инфа\kursach\Debug\kursach.exe
