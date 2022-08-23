@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\bin\Debug\Albom_strani.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\bin\Debug\Albom_strani.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\bin\Debug\Albom_strani.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom_strani\obj\Debug\Albom_strani.pdb

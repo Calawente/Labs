@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\bin\Debug\Albom11.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\bin\Debug\Albom11.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\bin\Debug\Albom11.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Albom11\obj\Debug\Albom11.pdb
