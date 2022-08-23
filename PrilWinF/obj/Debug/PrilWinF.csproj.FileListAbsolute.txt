@@ -1,0 +1,15 @@
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\bin\Debug\PrilWinF.exe.config
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\bin\Debug\PrilWinF.exe
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\bin\Debug\PrilWinF.pdb
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Form2.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Form3.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Form4.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Form5.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Form6.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.exe
+D:\__Doc\Liza\Desktop\Инфа\PrilWinF\obj\Debug\PrilWinF.pdb

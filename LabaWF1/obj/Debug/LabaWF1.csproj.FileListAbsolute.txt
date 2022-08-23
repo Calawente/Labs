@@ -1,0 +1,9 @@
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\bin\Debug\LabaWF1.exe.config
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\bin\Debug\LabaWF1.exe
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\bin\Debug\LabaWF1.pdb
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\obj\Debug\LabaWF1.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\obj\Debug\LabaWF1.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\obj\Debug\LabaWF1.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\obj\Debug\LabaWF1.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\obj\Debug\LabaWF1.exe
+D:\__Doc\Liza\Desktop\Инфа\LabaWF1\obj\Debug\LabaWF1.pdb
