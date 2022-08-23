@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\bin\Debug\Dwa_chisla2.exe.config
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\bin\Debug\Dwa_chisla2.exe
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\bin\Debug\Dwa_chisla2.pdb
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.exe
+D:\__Doc\Liza\Desktop\Инфа\Инфа1\C#\Dwa_chisla2\obj\Debug\Dwa_chisla2.pdb

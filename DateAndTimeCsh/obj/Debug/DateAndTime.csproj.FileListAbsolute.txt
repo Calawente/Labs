@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\bin\Debug\DateAndTime.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\bin\Debug\DateAndTime.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\bin\Debug\DateAndTime.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\DateAndTime\obj\Debug\DateAndTime.pdb

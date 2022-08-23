@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\bin\Debug\Ekonom4.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\bin\Debug\Ekonom4.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\bin\Debug\Ekonom4.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Ekonom4\obj\Debug\Ekonom4.pdb
