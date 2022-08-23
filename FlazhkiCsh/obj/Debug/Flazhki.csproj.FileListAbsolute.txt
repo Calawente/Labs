@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\bin\Debug\Flazhki.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\bin\Debug\Flazhki.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\bin\Debug\Flazhki.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Flazhki\obj\Debug\Flazhki.pdb
