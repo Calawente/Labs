@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\bin\Debug\Massiv.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\bin\Debug\Massiv.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\bin\Debug\Massiv.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Massiv\obj\Debug\Massiv.pdb

@@ -1,0 +1,11 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\bin\Debug\RandCH9.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\bin\Debug\RandCH9.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\bin\Debug\RandCH9.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.Form2.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\RandCH9\obj\Debug\RandCH9.pdb

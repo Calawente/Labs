@@ -1,0 +1,15 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\bin\Debug\Pleer.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\bin\Debug\Pleer.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\bin\Debug\Pleer.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\bin\Debug\Interop.WMPLib.dll
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\bin\Debug\AxInterop.WMPLib.dll
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Interop.WMPLib.dll
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\AxInterop.WMPLib.dll
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.csproj.ResolveComReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Pleer\obj\Debug\Pleer.pdb

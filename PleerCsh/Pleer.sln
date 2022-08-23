@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pleer", "Pleer.csproj", "{88354D12-DC3E-4638-B5B9-2C24C95CF4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88354D12-DC3E-4638-B5B9-2C24C95CF4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88354D12-DC3E-4638-B5B9-2C24C95CF4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88354D12-DC3E-4638-B5B9-2C24C95CF4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88354D12-DC3E-4638-B5B9-2C24C95CF4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D46F6D1-7257-4271-9ACB-84BAA0BABBC0}
+	EndGlobalSection
+EndGlobal
