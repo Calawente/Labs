@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\bin\Debug\RGB7.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\bin\Debug\RGB7.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\bin\Debug\RGB7.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\RGB7\obj\Debug\RGB7.pdb

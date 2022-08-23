@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\bin\Debug\Uravnenie12.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\bin\Debug\Uravnenie12.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\bin\Debug\Uravnenie12.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Uravnenie12\obj\Debug\Uravnenie12.pdb
