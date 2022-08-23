@@ -1,0 +1,13 @@
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\bin\Debug\netcoreapp3.1\Laba5CShCons.exe
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\bin\Debug\netcoreapp3.1\Laba5CShCons.deps.json
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\bin\Debug\netcoreapp3.1\Laba5CShCons.runtimeconfig.json
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\bin\Debug\netcoreapp3.1\Laba5CShCons.runtimeconfig.dev.json
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\bin\Debug\netcoreapp3.1\Laba5CShCons.dll
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\bin\Debug\netcoreapp3.1\Laba5CShCons.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.AssemblyInfoInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.AssemblyInfo.cs
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.dll
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba5CShCons\obj\Debug\netcoreapp3.1\Laba5CShCons.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\bin\Debug\netcoreapp3.1\LabaCShCons.exe
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\bin\Debug\netcoreapp3.1\LabaCShCons.deps.json
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\bin\Debug\netcoreapp3.1\LabaCShCons.runtimeconfig.json
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\bin\Debug\netcoreapp3.1\LabaCShCons.runtimeconfig.dev.json
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\bin\Debug\netcoreapp3.1\LabaCShCons.dll
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\bin\Debug\netcoreapp3.1\LabaCShCons.pdb
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.AssemblyInfoInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.AssemblyInfo.cs
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.dll
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.pdb
+D:\__Doc\Liza\Desktop\Инфа\LabaCShCons\obj\Debug\netcoreapp3.1\LabaCShCons.genruntimeconfig.cache
