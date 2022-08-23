@@ -1,0 +1,4 @@
+﻿  Laba4and5.cpp
+D:\__Doc\Liza\Desktop\Инфа\Laba4and5\Laba4and5.cpp(55,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\__Doc\Liza\Desktop\Инфа\Laba4and5\Laba4and5.cpp(56,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Laba4and5.vcxproj -> D:\__Doc\Liza\Desktop\Инфа\Laba4and5\Debug\Laba4and5.exe

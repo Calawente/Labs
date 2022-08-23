@@ -1,0 +1,13 @@
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\bin\Debug\netcoreapp3.1\Laba4CSh.exe
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\bin\Debug\netcoreapp3.1\Laba4CSh.deps.json
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\bin\Debug\netcoreapp3.1\Laba4CSh.runtimeconfig.json
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\bin\Debug\netcoreapp3.1\Laba4CSh.runtimeconfig.dev.json
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\bin\Debug\netcoreapp3.1\Laba4CSh.dll
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\bin\Debug\netcoreapp3.1\Laba4CSh.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.AssemblyInfoInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.AssemblyInfo.cs
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.dll
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba4CSh\obj\Debug\netcoreapp3.1\Laba4CSh.genruntimeconfig.cache

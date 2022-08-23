@@ -1,0 +1,13 @@
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\bin\Debug\Laba3WinF.exe.config
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\bin\Debug\Laba3WinF.exe
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\bin\Debug\Laba3WinF.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.Form2.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.Form3.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.Form4.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.exe
+D:\__Doc\Liza\Desktop\Инфа\Laba3WinF\obj\Debug\Laba3WinF.pdb
