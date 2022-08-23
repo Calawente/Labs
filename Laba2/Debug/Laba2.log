@@ -1,0 +1,6 @@
+﻿  Laba2.cpp
+D:\__Doc\Liza\Desktop\Инфа\Laba2\Laba2.cpp(11,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+D:\__Doc\Liza\Desktop\Инфа\Laba2\Laba2.cpp(18,10): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\__Doc\Liza\Desktop\Инфа\Laba2\Laba2.cpp(19,10): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\__Doc\Liza\Desktop\Инфа\Laba2\Laba2.cpp(24,10): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+  Laba2.vcxproj -> D:\__Doc\Liza\Desktop\Инфа\Laba2\Debug\Laba2.exe

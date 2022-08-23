@@ -1,0 +1,13 @@
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\bin\Debug\Laba1and2WF.exe.config
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\bin\Debug\Laba1and2WF.exe
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\bin\Debug\Laba1and2WF.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.exe
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.pdb
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.Form2.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.Form3.resources
+D:\__Doc\Liza\Desktop\Инфа\Laba1and2WF\obj\Debug\Laba1and2WF.Form4.resources
