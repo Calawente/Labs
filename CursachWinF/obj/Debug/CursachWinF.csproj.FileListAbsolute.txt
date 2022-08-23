@@ -1,0 +1,15 @@
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\bin\Debug\CursachWinF.exe.config
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\bin\Debug\CursachWinF.exe
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\bin\Debug\CursachWinF.pdb
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Form2.resources
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Form3.resources
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Form4.resources
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.exe
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.pdb
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Form5.resources
+D:\__Doc\Liza\Desktop\Инфа\CursachWinF\obj\Debug\CursachWinF.Form6.resources

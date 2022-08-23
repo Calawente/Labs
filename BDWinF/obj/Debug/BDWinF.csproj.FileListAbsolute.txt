@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\bin\Debug\BDWinF.exe.config
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\bin\Debug\BDWinF.exe
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\bin\Debug\BDWinF.pdb
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.exe
+D:\__Doc\Liza\Desktop\Инфа\BDWinF\obj\Debug\BDWinF.pdb
