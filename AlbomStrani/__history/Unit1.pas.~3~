@@ -1,0 +1,41 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    RadioButton3: TRadioButton;
+    ComboBox1: TComboBox;
+    Image1: TImage;
+    procedure RadioButton1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  flag:Integer;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.RadioButton1Click(Sender: TObject);
+begin
+ComboBox1.Items.Clear;
+ComboBox1.Items.Add('Россия');
+ComboBox1.Items.Add('Германия');
+ComboBox1.Items.Add('Франнция');
+Image1.Picture.LoadFromFile('Europe.bmp');
+flag:=1;
+end;
+
+end.
