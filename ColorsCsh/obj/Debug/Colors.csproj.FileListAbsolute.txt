@@ -1,0 +1,8 @@
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\bin\Debug\Colors.exe.config
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\bin\Debug\Colors.exe
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\bin\Debug\Colors.pdb
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\obj\Debug\Colors.Form1.resources
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\obj\Debug\Colors.exe
+C:\Users\Sveta\Desktop\Инфа\C#\Colors\obj\Debug\Colors.pdb
