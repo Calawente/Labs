@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\bin\Debug\Laba3.exe.config
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\bin\Debug\Laba3.exe
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\bin\Debug\Laba3.pdb
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.exe
+D:\__Doc\Liza\Desktop\Инфа\ОИБ\Laba3\obj\Debug\Laba3.pdb
