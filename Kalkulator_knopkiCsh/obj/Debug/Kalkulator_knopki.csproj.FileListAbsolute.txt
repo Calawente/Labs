@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\bin\Debug\Kalkulator_knopki.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\bin\Debug\Kalkulator_knopki.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\bin\Debug\Kalkulator_knopki.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_knopki\obj\Debug\Kalkulator_knopki.pdb

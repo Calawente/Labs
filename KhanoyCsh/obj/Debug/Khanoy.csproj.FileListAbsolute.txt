@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\bin\Debug\Khanoy.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\bin\Debug\Khanoy.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\bin\Debug\Khanoy.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Khanoy\obj\Debug\Khanoy.pdb

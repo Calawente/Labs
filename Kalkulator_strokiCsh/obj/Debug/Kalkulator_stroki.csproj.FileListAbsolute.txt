@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\bin\Debug\Kalkulator_stroki.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\bin\Debug\Kalkulator_stroki.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\bin\Debug\Kalkulator_stroki.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Kalkulator_stroki\obj\Debug\Kalkulator_stroki.pdb

@@ -1,0 +1,9 @@
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\bin\Debug\kubik2.exe.config
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\bin\Debug\kubik2.exe
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\bin\Debug\kubik2.pdb
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\obj\Debug\kubik2.csprojAssemblyReference.cache
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\obj\Debug\kubik2.Form1.resources
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\obj\Debug\kubik2.Properties.Resources.resources
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\obj\Debug\kubik2.csproj.GenerateResource.cache
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\obj\Debug\kubik2.exe
+C:\Users\Sveta\Desktop\Инфа\C#\kubik2\obj\Debug\kubik2.pdb
