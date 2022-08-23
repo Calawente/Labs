@@ -1,0 +1,59 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Edit1: TEdit;
+    Label1: TLabel;
+    Edit2: TEdit;
+    Label2: TLabel;
+    Edit3: TEdit;
+    Label3: TLabel;
+    Label4: TLabel;
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  a,b,c:Integer;
+  d,x1,x2: Double;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+a:=StrToInt(Edit1.Text);
+b:=StrToInt(Edit1.Text);
+c:=StrToInt(Edit1.Text);
+d:=Sqrt((b*b)-(4*a*c));
+if d=0 then
+begin
+  x1:=b*(-1)/(2*a);
+  Label4.Caption:='Ответ: x = '+FloatToStr(x1);
+end
+else
+begin
+  if d>0 then
+  begin
+    x1:= (b*(-1)+d)/(2*a);
+    x2:= (b*(-1)-d)/(2*a);
+    Label4.Caption:='Ответ: x1 = '+FloatToStr(x1)+', x2 = '+FloatToStr(x2);
+  end
+  else
+  Label4.Caption:='Ответ: корней нет';
+end;
+end;
+
+end.
