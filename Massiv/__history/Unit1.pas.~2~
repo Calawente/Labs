@@ -1,0 +1,49 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Edit1: TEdit;
+    Label1: TLabel;
+    Edit2: TEdit;
+    Button1: TButton;
+    Edit3: TEdit;
+    Button2: TButton;
+    Edit4: TEdit;
+    Edit5: TEdit;
+    Button3: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  arr:array of Integer;
+  k,i,min,max,ind:Integer;
+
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+Edit2.Text:='';
+k:=StrToInt(Edit1.Text);
+SetLength(arr,k);
+for i := 0 to k-1 do
+  begin
+    arr[i]=Random(20);
+    Edit2.Text:=Edit2.Text+IntToStr(arr[i])+', ';
+  end;
+end;
+
+end.
