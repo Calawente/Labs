@@ -1,0 +1,16 @@
+﻿[ComboBox1]
+Coordinates=10,10,101,124
+Visible=True
+
+[Button1]
+Coordinates=229,10,59,58
+
+[Edit2]
+Coordinates=121,10,44,58
+
+[Edit1]
+Coordinates=175,10,44,58
+
+[]
+Coordinates=217,1,91,36
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.779,=D:\__Doc\Liza\Desktop\Инфа\Delphi\Unit1.pas</Transaction>
+    <Transaction>2020 12 13 02:43:37.380,=D:\__Doc\Liza\Desktop\Инфа\Delphi\Unit1.pas</Transaction>
+    <Transaction>2020 12 13 02:43:46.665,D:\__Doc\Liza\Desktop\Инфа\Delphi\Flazhki\Unit1.dfm=D:\__Doc\Liza\Desktop\Инфа\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2020 12 13 02:43:46.665,D:\__Doc\Liza\Desktop\Инфа\Delphi\Flazhki\Unit1.pas=D:\__Doc\Liza\Desktop\Инфа\Delphi\Unit1.pas</Transaction>
+    <Transaction>2020 12 13 02:43:48.364,D:\__Doc\Liza\Desktop\Инфа\Delphi\Flazhki\Project1.dproj=D:\__Doc\Liza\Desktop\Инфа\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
