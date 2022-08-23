@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\bin\Debug\Loyd.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\bin\Debug\Loyd.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\bin\Debug\Loyd.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\Loyd\obj\Debug\Loyd.pdb

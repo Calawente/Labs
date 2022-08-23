@@ -1,0 +1,10 @@
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\bin\Debug\MagKvadrat.exe.config
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\bin\Debug\MagKvadrat.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\bin\Debug\MagKvadrat.pdb
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.csprojAssemblyReference.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.Form1.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.Properties.Resources.resources
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.csproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.csproj.CoreCompileInputs.cache
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.exe
+D:\__Doc\Liza\Desktop\Инфа\C#\MagKvadrat\obj\Debug\MagKvadrat.pdb
