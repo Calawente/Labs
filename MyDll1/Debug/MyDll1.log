@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MyDll1.cpp
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\MyDll1\MyDll1.cpp(218,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\MyDll1\MyDll1.cpp(225,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MyDll1.vcxproj -> D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\MyDll1\Debug\MyDll1.dll

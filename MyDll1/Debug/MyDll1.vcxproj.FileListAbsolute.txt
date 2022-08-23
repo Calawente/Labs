@@ -1,0 +1,4 @@
+D:\__Doc\Liza\Desktop\3\MyDll1\Debug\MyDll1.dll
+D:\__Doc\Liza\Desktop\3\MyDll1\Debug\MyDll1.vcxproj.AssemblyReference.cache
+D:\__Doc\Liza\Desktop\5-й семестр\3\MyDll1\Debug\MyDll1.dll
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\MyDll1\Debug\MyDll1.dll

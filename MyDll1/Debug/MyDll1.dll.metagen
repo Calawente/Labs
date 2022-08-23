@@ -1,0 +1,70 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly MyDll1, Version=1.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class MyDll1.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    VvodD(TextBox): PrivateScope, Public, Static, HideBySig
+    VvodI(TextBox): PrivateScope, Public, Static, HideBySig
+    Vivod(Double, TextBox): PrivateScope, Public, Static, HideBySig
+    Stor(Double, Int32): PrivateScope, Public, Static, HideBySig
+    Perim(Double, Int32): PrivateScope, Public, Static, HideBySig
+    Ugol(Double, Double, Double): PrivateScope, Public, Static, HideBySig
+    Min(Double, Double): PrivateScope, Public, Static, HideBySig
+    Max(Double, Double): PrivateScope, Public, Static, HideBySig
+    Vyr31(Double, Double, Double, Double): PrivateScope, Public, Static, HideBySig
+    Vyr32(Double, Double, Double, Double): PrivateScope, Public, Static, HideBySig
+    Vyr33(Double, Double, Double): PrivateScope, Public, Static, HideBySig
+    Vyr3(Double, Double, Double, Double): PrivateScope, Public, Static, HideBySig
+    VivodList(Double, Double, ListBox): PrivateScope, Public, Static, HideBySig
+    Vyr51(Double): PrivateScope, Public, Static, HideBySig
+    Vyr5(Double, Double, Double, Int32* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced, ListBox, DataGridView): PrivateScope, Public, Static, HideBySig
+    VivodDGV(Double, Double, DataGridView): PrivateScope, Public, Static, HideBySig
+Class MyDll1.Class2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 n : Public, Static
+    Int32* mas : Public, Static
+  Methods:
+    Vopros1(TextBox): PrivateScope, Public, Static, HideBySig
+    Vopros2(CheckBox, CheckBox, CheckBox, CheckBox): PrivateScope, Public, Static, HideBySig
+    Vopros3(RadioButton, RadioButton, RadioButton, RadioButton): PrivateScope, Public, Static, HideBySig
+    OutputMas(Int32, DataGridView): PrivateScope, Public, Static, HideBySig
+    ZapTxt(DataGridView, TextBox): PrivateScope, Public, Static, HideBySig
+Class MyDll1.Class3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EnterMas(Int32*, Int32): PrivateScope, Public, Static, HideBySig
+    EnterMas(Double*, Int32): PrivateScope, Public, Static, HideBySig
+    SortMasUbyv(Int32*, Int32): PrivateScope, Public, Static, HideBySig
+    MonUbyv(Int32*, Int32): PrivateScope, Public, Static, HideBySig
+    OutputMas(Int32*, Int32, DataGridView): PrivateScope, Public, Static, HideBySig
+    OutputMas(Double*, Int32, DataGridView): PrivateScope, Public, Static, HideBySig
+    SredA5(Int32*, Int32): PrivateScope, Public, Static, HideBySig
+    Sravn(Int32*, Int32*, Int32, Double): PrivateScope, Public, Static, HideBySig
+    UdalEl(Int32*, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    CopyMas(Int32*, Int32*, Int32): PrivateScope, Public, Static, HideBySig
+Class MyDll1.Class4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EnterMass(Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    EnterMass(Double**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    OutputMas(Int32**, Int32, Int32, DataGridView): PrivateScope, Public, Static, HideBySig
+    OutputMas(Double**, Int32, Int32, DataGridView): PrivateScope, Public, Static, HideBySig
+    SortMasUbyv(Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    MonUbyv(Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    SredA5(Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Sravn(Int32**, Int32*, Int32, Int32, Double): PrivateScope, Public, Static, HideBySig
+    InsertOolumn(Int32**, Int32, Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
