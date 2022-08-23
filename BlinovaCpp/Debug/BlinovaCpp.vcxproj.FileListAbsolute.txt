@@ -1,0 +1,58 @@
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.vcxproj.AssemblyReference.cache
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form1.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.MainForm.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.vcxproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.exe
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.vcxproj.CopyComplete
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\MyDll1.dll
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\MyDll1.pdb
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form2.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form3.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form4.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form4_1.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form4_2.resources
+D:\__Doc\Liza\Desktop\3\BlinovaCpp\Debug\BlinovaCpp.Form4_3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.vcxproj.AssemblyReference.cache
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form1.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form2.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form4.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form4_1.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form4_2.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form4_3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.MainForm.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.vcxproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.vcxproj.CopyComplete
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.exe
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\MyDll1.dll
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\MyDll1.pdb
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form5.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form6.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form6_1.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form6_2.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form6_3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form6_4.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form7.resources
+D:\__Doc\Liza\Desktop\5-й семестр\3\BlinovaCpp\Debug\BlinovaCpp.Form8.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.vcxproj.AssemblyReference.cache
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form1.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form2.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form4.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form4_1.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form4_2.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form4_3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form5.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form6.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form6_1.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form6_2.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form6_3.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form6_4.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form7.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.Form8.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.MainForm.resources
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.vcxproj.GenerateResource.cache
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.vcxproj.CopyComplete
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.exe
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\MyDll1.dll
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\MyDll1.pdb

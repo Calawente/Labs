@@ -1,0 +1,8 @@
+﻿  Form7.cpp
+  MainForm.cpp
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Form3.h(195,13): warning C4101: a: неиспользованная локальная переменная
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Form3.h(195,16): warning C4101: b: неиспользованная локальная переменная
+D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Form5.h(331,52): warning C4101: znach: неиспользованная локальная переменная
+  Создание кода...
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BlinovaCpp.vcxproj -> D:\__Doc\Liza\Desktop\5-й семестр\ВвИТ\1\BlinovaCpp\Debug\BlinovaCpp.exe
